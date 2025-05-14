@@ -3,3 +3,4 @@ opencv-python
 numpy
 tensorflow
 open cv2
+opencv-python-headless
